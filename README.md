@@ -17,3 +17,6 @@ i.e. django-admin startproject config .
 (in virtualenv)
 $ deactivate 
 
+## Run Server
+(in virtualenv)
+$ ./manage.py runserver
